@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hi 我是 naluduo233 👋
+
+## About me
+
+- 企业级 [Vue DevUI](https://gitee.com/devui/vue-devui/contributors?ref=dev) 组件库贡献者
+- [掘金](https://juejin.cn/user/1486195450470023)
+
 
 <!--
 **naluduo233/naluduo233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
