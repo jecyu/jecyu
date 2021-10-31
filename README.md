@@ -1,4 +1,4 @@
-### Hi 我是 naluduo233 👋
+### Hi I'm naluduo233 👋
 
 - 企业级 [Vue DevUI](https://gitee.com/devui/vue-devui/contributors?ref=dev) 组件库贡献者
 - 掘金：[naluduo233](https://juejin.cn/user/1486195450470023)
