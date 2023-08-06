@@ -1,6 +1,6 @@
 ### Hi I'm jecyu 👋
 
-- 企业级 [Vue DevUI](https://gitee.com/devui/vue-devui/contributors?ref=dev) 组件库贡献者
+- 企业级 [Vue DevUI](https://github.com/DevCloudFE/vue-devui)组件库贡献者
 - 掘金：[jecyu](https://juejin.cn/user/1486195450470023)
 
 **Languages and Tools:**  
