@@ -2,6 +2,7 @@
 
 - 企业级 [Vue DevUI](https://github.com/DevCloudFE/vue-devui)组件库贡献者
 - 掘金：[jecyu](https://juejin.cn/user/1486195450470023)
+- 公众号：前端快快充🔋
 
 **Languages and Tools:**  
 
